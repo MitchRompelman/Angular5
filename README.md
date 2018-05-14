@@ -17,5 +17,9 @@
 	- ng serve
 	Project is working fine (localhost:4200).
 	
-6. Setting up httpClientModule. 
+6. Setting up httpClientModule.
+	- Edit module app.module.ts
+	- Edit component app.component.ts
+	Project is working fine (localhost:4200).
+	
 	
