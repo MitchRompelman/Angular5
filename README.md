@@ -7,19 +7,15 @@
 	- npm install express
 	
 4. Install latest angular and typescript for my project.
-	- npm install -g typescript
-	- npm uninstall -g angular-cli
-	- npm cache clean
-	- npm install -g angular-cli
+	- npm install -g typescript@latest
+	- npm install -g @angular@latest
+	if needed:
+	- npm install -g @angular/cli@latest
 	
 5. Get the project started
-	- ng new start / cd start
+	- ng new angular5 / cd angular5
 	- ng serve
 	Project is working fine (localhost:4200).
 	
-6. Setting up http-ex400
-	- ng new http-ex400
-	- cd http-ex400
-	- ng serve
-	Project is working fine (localhost:4200). 
+6. Setting up httpClientModule. 
 	
