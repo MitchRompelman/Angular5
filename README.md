@@ -21,5 +21,5 @@
 	- ng new http-ex400
 	- cd http-ex400
 	- ng serve
-	Project is working fine (localhost:4200).
+	Project is working fine (localhost:4200). 
 	
