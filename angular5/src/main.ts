@@ -10,3 +10,10 @@ if (environment.production) {
 
 platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.log(err));
+  
+function startup(company) {
+    return "Hello, " + company;
+}
+let company = "Dynasource";
+console.log(startup(company));
+
