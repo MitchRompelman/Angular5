@@ -35,12 +35,12 @@ main {
 .searchbar {
 	order: 0;
 	flex: 100%;
-	border: 1px solid red;
+	border: 1px solid #cccccc;
 }
 .sidebar {
 	flex: 25%;
 	order: 1;
-	border: 1px solid blue;
+	border: 1px solid #cccccc;
 }
 
 .searchbar input[type="text"],
@@ -69,7 +69,7 @@ main {
 main {
 	flex: 70%;
 	order: 2;
-	border: 1px solid black;
+	border: 1px solid #cccccc;
 }
 .foundtext {
 	background-color: yellow;
