@@ -45,4 +45,12 @@
 	
 	ng build
 	
+<<<<<<< HEAD
+=======
+6. Setting up httpClientModule.
+	- Edit module app.module.ts
+	- Edit component app.component.ts
+	Project is working fine (localhost:4200).
+	
+>>>>>>> 12f7953f954634f38062175193cdf05cfcf47f20
 	
