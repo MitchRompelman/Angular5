@@ -43,14 +43,12 @@
 	- Build my first injectable.
 	Project is working fine (localhost:4200).
 	
-	ng build
+10. Change to look and feel.
+	- style.css border colours
 	
-<<<<<<< HEAD
-=======
-6. Setting up httpClientModule.
-	- Edit module app.module.ts
-	- Edit component app.component.ts
-	Project is working fine (localhost:4200).
+11. Project is ready to use.
+	- Download ungular5 directory.
+	- Use node.js
+	- Use Command: ng build || Use ng serve
 	
->>>>>>> 12f7953f954634f38062175193cdf05cfcf47f20
 	
