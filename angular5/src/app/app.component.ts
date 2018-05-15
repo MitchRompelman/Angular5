@@ -59,9 +59,9 @@ export class AppComponent implements OnInit {
 
 	// Delete function searches the textarray for matching content.
 	deleteText(texti: Itext) {
-	  _data_text = texti.make;
-	  _index = this.textarray.findIndex(obj => obj['make'] === data_text))
-	  this.textarray.splice(index, 1); 
+	  this._data_text = texti.make;
+	  this._index = this.textarray.findIndex(obj => obj['make'] === this._data_text))
+	  this.textarray.splice(this._index, 1); 
 	}
 	
 	// Search function
